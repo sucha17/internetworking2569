@@ -1,4 +1,4 @@
-# Internetworking (2569) 🌐
+# Internetworking (2569)🌐
 
 ยินดีต้อนรับสู่คลังเก็บข้อมูลและผลงานรายวิชา **Internetworking SC313302** ประจำปีการศึกษา 2569 Repository นี้ใช้สำหรับรวบรวมใบงาน (Labs) และเอกสารโปรเจกต์ต่าง ๆ ที่เกี่ยวกับข้องกับรายวิชานี้ 
 
@@ -19,7 +19,7 @@
 
 ## 📄 เอกสารแลป (Lab Documents)
 
-ส่วนนี้สำหรับรวบรวมไฟล์เอกสารประกอบการเรียน ใบงาน (Lab Sheet) หรือรายงานสรุปผลการทดลองในรูปแบบไฟล์ PDF:
+ส่วนนี้สำหรับรวบรวมไฟล์เอกสารหรือรายงานสรุปผลการทดลองในรูปแบบไฟล์ PDF:
 
 * **Lab 01:** [ดูเอกสาร Lab 01](https://drive.google.com/file/d/1lkXrZxDQ1yUlWTT4XpiDy_EShrnkVK0G/view?usp=sharing)
 * **Lab 02:** [ดูเอกสาร Lab 02](https://drive.google.com/file/d/1Jsld4AusMHom0FEopWggxE4PPNXIh5QX/view?usp=sharing)
