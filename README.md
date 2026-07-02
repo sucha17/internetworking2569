@@ -19,7 +19,7 @@
 
 ## 📄 เอกสารแลป (Lab Documents)
 
-ส่วนนี้สำหรับรวบรวมไฟล์เอกสารประกอบการเรียน ใบงาน (Lab Sheet) หรือรายงานสรุปผลการทดลองในรูปแบบไฟล์ PDF หรือ Doc:
+ส่วนนี้สำหรับรวบรวมไฟล์เอกสารประกอบการเรียน ใบงาน (Lab Sheet) หรือรายงานสรุปผลการทดลองในรูปแบบไฟล์ PDF:
 
 * **Lab 01:** [ดูเอกสาร Lab 01](https://drive.google.com/file/d/1lkXrZxDQ1yUlWTT4XpiDy_EShrnkVK0G/view?usp=sharing)
 * **Lab 02:** [ดูเอกสาร Lab 02](https://drive.google.com/file/d/1Jsld4AusMHom0FEopWggxE4PPNXIh5QX/view?usp=sharing)
