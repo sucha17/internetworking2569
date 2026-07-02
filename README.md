@@ -10,13 +10,13 @@
 
 | ลำดับแลป | รายชื่อแลป / หัวข้อการทดลอง | ลิงก์เข้าสู่เนื้อหา |
 | :---: | :--- | :---: |
-| **Lab 01** | Introduction to Cisco Packet Tracer & Basic Config | [ดูแลป 1](./Lab01/) |
-| **Lab 02** | Static Routing & Dynamic Routing Fundamentals | [ดูแลป 2](./Lab02/) |
-| **Lab 03** | VLANs, Trunking, and Inter-VLAN Routing | [ดูแลป 3](./Lab03/) |
-| **Lab 04** | Access Control Lists (ACLs) & Network Security | [ดูแลป 4](./Lab04/) |
-| **Lab 05** | Network Address Translation (NAT) & DHCP Config | [ดูแลป 5](./Lab05/) |
-| **Lab 06** | OSPF (Open Shortest Path First) Configuration | [ดูแลป 6](./Lab06/) |
-| **Lab 07** | IPv6 Addressing and Routing | [ดูแลป 7](./Lab07/) |
+| **Lab 01** | Case Study - Part 4 [ITN 7.02 – Case Study - Part 4 (Modules 11-13)] | [ดูแลป 1](./Lab01/) |
+| **Lab 02** | 1.6.2 Packet Tracer  - Configure Basic Router Settings - Physical Mode | [ดูแลป 2](./Lab02/) |
+| **Lab 03** | VLAN Configuration | [ดูแลป 3](./Lab03/) |
+| **Lab 04** | Investigate STP Loop Prevention | [ดูแลป 4](./Lab04/) |
+| **Lab 05** | Network Address Translation (NAT) & DHCP Config | - |
+| **Lab 06** | OSPF (Open Shortest Path First) Configuration | - |
+| **Lab 07** | IPv6 Addressing and Routing | - |
 
 > 💡 *หมายเหตุ: สามารถกดคลิกที่ลิงก์ในช่อง "ลิงก์เข้าสู่เนื้อหา" เพื่อเข้าไปดูไฟล์คอนฟิกหรือสรุปผลการทดลองของแลปนั้น ๆ ได้ทันที*
 
