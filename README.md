@@ -8,17 +8,29 @@
 
 ด้านล่างนี้คือลิงก์สำหรับเข้าดูรายละเอียดและซอร์สโค้ดของแต่ละแลป (กรุณาอัปเดตลิงก์ให้ตรงกับโครงสร้างโฟลเดอร์จริงของคุณ):
 
-| ลำดับแลป | รายชื่อแลป / หัวข้อการทดลอง | ลิงก์เข้าสู่เนื้อหา |
+| ลำดับแลป | รายชื่อแลป / หัวข้อการทดลอง | เพิ่มลิ้งไฟล์แลป |
 | :---: | :--- | :---: |
-| **Lab 01** | Case Study - Part 4 [ITN 7.02 – Case Study - Part 4 (Modules 11-13)] | [ดูแลป 1](./Lab01/) |
-| **Lab 02** | 1.6.2 Packet Tracer  - Configure Basic Router Settings - Physical Mode | [ดูแลป 2](./Lab02/) |
-| **Lab 03** | VLAN Configuration | [ดูแลป 3](./Lab03/) |
-| **Lab 04** | Investigate STP Loop Prevention | [ดูแลป 4](./Lab04/) |
+| **Lab 01** | Introduction to Cisco Packet Tracer & Basic Config | [ไฟล์แลป1](./https://github.com/sucha17/internetworking2569/blob/main/Lab1/3.b%20ITN%207.02%20%E2%80%93%20Case%20Study%20-%20Part%204%20(Modules%2011%20%E2%80%93%2013)%20(1).pka/) |
+| **Lab 02** | Static Routing & Dynamic Routing Fundamentals | [ไฟล์แลป2](./https://github.com/sucha17/internetworking2569/blob/main/Lab2/1.6.2%20Packet%20Tracer%20%20-%20Configure%20Basic%20Router%20Settings%20-%20Physical%20Mode.pka/) |
+| **Lab 03** | VLANs, Trunking, and Inter-VLAN Routing | [ไฟล์แลป3](./https://github.com/sucha17/internetworking2569/blob/main/Lab3/Lab3%20.3.12%20Packet%20Tracer%20-%20VLAN%20Configuration.pka/) |
+| **Lab 04** | Access Control Lists (ACLs) & Network Security | [ไฟล์แลป4](./https://github.com/sucha17/internetworking2569/blob/main/Lab4/Lab4%205.1.9%20Packet%20Tracer%20-%20Investigate%20STP%20Loop%20Prevention.pka/) |
 | **Lab 05** | Network Address Translation (NAT) & DHCP Config | - |
 | **Lab 06** | OSPF (Open Shortest Path First) Configuration | - |
 | **Lab 07** | IPv6 Addressing and Routing | - |
 
-> 💡 *หมายเหตุ: สามารถกดคลิกที่ลิงก์ในช่อง "ลิงก์เข้าสู่เนื้อหา" เพื่อเข้าไปดูไฟล์คอนฟิกหรือสรุปผลการทดลองของแลปนั้น ๆ ได้ทันที*
+---
+
+## 📄 เอกสารแลป (Lab Documents)
+
+ส่วนนี้สำหรับรวบรวมไฟล์เอกสารประกอบการเรียน ใบงาน (Lab Sheet) หรือรายงานสรุปผลการทดลองในรูปแบบไฟล์ PDF หรือ Doc:
+
+* **Lab 01:** [ดาวน์โหลดเอกสาร Lab 01]([./Docs/Lab01_Sheet.pdf](https://github.com/sucha17/internetworking2569/blob/main/Lab1/doc%20lab1.pdf))
+* **Lab 02:** [ดาวน์โหลดเอกสาร Lab 02](https://github.com/sucha17/internetworking2569/blob/main/Lab2/LAB2%20DOC.pdf)
+* **Lab 03:** [ดาวน์โหลดเอกสาร Lab 02]([./Docs/Lab02_Sheet.pdf](https://github.com/sucha17/internetworking2569/blob/main/Lab3/643020651-7%20Lab3%20-%20VLAN%20Configuration.docx%20(2).pdf))
+* **Lab 04:** [ดาวน์โหลดเอกสาร Lab 02]([./Docs/Lab02_Sheet.pdf](https://github.com/sucha17/internetworking2569/blob/main/Lab4/643020651-7%20Lab4%20-%20Investigate%20STP%20Loop%20Prevention.docx.pdf))
+* **Lab 05:** -
+* **Lab 06:** -
+* **Lab 07:** -
 
 ---
 
