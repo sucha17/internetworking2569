@@ -21,10 +21,10 @@
 
 ส่วนนี้สำหรับรวบรวมไฟล์เอกสารประกอบการเรียน ใบงาน (Lab Sheet) หรือรายงานสรุปผลการทดลองในรูปแบบไฟล์ PDF หรือ Doc:
 
-* **Lab 01:** [ดาวน์โหลดเอกสาร Lab 01](https://drive.google.com/file/d/1lkXrZxDQ1yUlWTT4XpiDy_EShrnkVK0G/view?usp=sharing)
-* **Lab 02:** [ดาวน์โหลดเอกสาร Lab 02](https://drive.google.com/file/d/1Jsld4AusMHom0FEopWggxE4PPNXIh5QX/view?usp=sharing)
-* **Lab 03:** [ดาวน์โหลดเอกสาร Lab 03](https://drive.google.com/file/d/1d0aya_DeF0lKVnll8G5-EU9cafB4l3vz/view?usp=sharing)
-* **Lab 04:** [ดาวน์โหลดเอกสาร Lab 04](https://drive.google.com/file/d/1KFHORcT0y9r9G-AzdNSYv8zGNDp4h-om/view?usp=sharing)
+* **Lab 01:** [ดูเอกสาร Lab 01](https://drive.google.com/file/d/1lkXrZxDQ1yUlWTT4XpiDy_EShrnkVK0G/view?usp=sharing)
+* **Lab 02:** [ดูเอกสาร Lab 02](https://drive.google.com/file/d/1Jsld4AusMHom0FEopWggxE4PPNXIh5QX/view?usp=sharing)
+* **Lab 03:** [ดูเอกสาร Lab 03](https://drive.google.com/file/d/1d0aya_DeF0lKVnll8G5-EU9cafB4l3vz/view?usp=sharing)
+* **Lab 04:** [ดูเอกสาร Lab 04](https://drive.google.com/file/d/1KFHORcT0y9r9G-AzdNSYv8zGNDp4h-om/view?usp=sharing)
 * **Lab 05:** -
 * **Lab 06:** -
 * **Lab 07:** -
