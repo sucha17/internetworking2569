@@ -19,9 +19,9 @@
 | **Lab 02** | Packet Tracer - Configure Basic Router Settings - Physical Mode |
 | **Lab 03** | VLAN Configuration |
 | **Lab 04** | Investigate STP Loop Prevention |
-| **Lab 05** | - |
-| **Lab 06** | - |
-| **Lab 07** | - |
+| **Lab 05** | Packet Tracer - Configure a Wireless Network |
+| **Lab 06** | Packet Tracer - WLAN Configuration |
+| **Lab 07** | Packet Tracer - Wireless Technology Exploration - Physical Mode |
 ---
 
 ## 📄 เอกสารแลป (Lab Documents)
@@ -32,7 +32,7 @@
 * **Lab 02:** [ดูเอกสาร Lab 02](https://drive.google.com/file/d/1Jsld4AusMHom0FEopWggxE4PPNXIh5QX/view?usp=sharing)
 * **Lab 03:** [ดูเอกสาร Lab 03](https://drive.google.com/file/d/1d0aya_DeF0lKVnll8G5-EU9cafB4l3vz/view?usp=sharing)
 * **Lab 04:** [ดูเอกสาร Lab 04](https://drive.google.com/file/d/1KFHORcT0y9r9G-AzdNSYv8zGNDp4h-om/view?usp=sharing)
-* **Lab 05:** -
-* **Lab 06:** -
-* **Lab 07:** -
+* **Lab 05:** [ดูเอกสาร Lab 05](https://drive.google.com/file/d/10vKCSWzHdneu2h9mtlSx-hySYQCaiA_g/view?usp=sharing)
+* **Lab 06:** [ดูเอกสาร Lab 06](https://drive.google.com/file/d/1nyxzF7dU9x2MZDw2O6y4FjUMmHhO82Ej/view?usp=sharing)
+* **Lab 07:** [ดูเอกสาร Lab 07](https://drive.google.com/file/d/1bG3LCk-ovwBqIIWgQoTdyRyHLg6liZSd/view?usp=sharing)
 ---
