@@ -22,6 +22,9 @@
 | **Lab 05** | Packet Tracer - Configure a Wireless Network |
 | **Lab 06** | Packet Tracer - WLAN Configuration |
 | **Lab 07** | Packet Tracer - Wireless Technology Exploration - Physical Mode |
+| **Lab 08** | Packet Tracer - Basic Router Configuration Review |
+| **Lab 09** | Packet Tracer - Configure IPv4 and IPv6 Static and Default Routes |
+
 ---
 
 ## 📄 เอกสารแลป (Lab Documents)
@@ -35,4 +38,5 @@
 * **Lab 05:** [ดูเอกสาร Lab 05](https://drive.google.com/file/d/10vKCSWzHdneu2h9mtlSx-hySYQCaiA_g/view?usp=sharing)
 * **Lab 06:** [ดูเอกสาร Lab 06](https://drive.google.com/file/d/1nyxzF7dU9x2MZDw2O6y4FjUMmHhO82Ej/view?usp=sharing)
 * **Lab 07:** [ดูเอกสาร Lab 07](https://drive.google.com/file/d/1bG3LCk-ovwBqIIWgQoTdyRyHLg6liZSd/view?usp=sharing)
+* **Lab 08:** [ดูเอกสาร Lab 08](https://drive.google.com/file/d/1lhr5uB18xHOcuTAaqAlvvXm731A8wPCs/view?usp=drive_link)
 ---
