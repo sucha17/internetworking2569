@@ -39,4 +39,5 @@
 * **Lab 06:** [ดูเอกสาร Lab 06](https://drive.google.com/file/d/1nyxzF7dU9x2MZDw2O6y4FjUMmHhO82Ej/view?usp=sharing)
 * **Lab 07:** [ดูเอกสาร Lab 07](https://drive.google.com/file/d/1bG3LCk-ovwBqIIWgQoTdyRyHLg6liZSd/view?usp=sharing)
 * **Lab 08:** [ดูเอกสาร Lab 08](https://drive.google.com/file/d/1lhr5uB18xHOcuTAaqAlvvXm731A8wPCs/view?usp=drive_link)
+* **Lab 09:** [ดูเอกสาร Lab 09](https://drive.google.com/file/d/1V9N9SeYcB-ucckPqcJnnirdLZ8Jxf-9U/view?usp=sharing)
 ---
