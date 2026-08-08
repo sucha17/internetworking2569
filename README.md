@@ -24,6 +24,8 @@
 | **Lab 07** | Packet Tracer - Wireless Technology Exploration - Physical Mode |
 | **Lab 08** | Packet Tracer - Basic Router Configuration Review |
 | **Lab 09** | Packet Tracer - Configure IPv4 and IPv6 Static and Default Routes |
+| **Lab 10** | Packet Tracer - Modify Single-Area OSPFv2 - ILM |
+| **Lab 11** | Packet Tracer - Propagate a Default Route in OSPFv2 - ILM |
 
 ---
 
@@ -40,4 +42,6 @@
 * **Lab 07:** [ดูเอกสาร Lab 07](https://drive.google.com/file/d/1bG3LCk-ovwBqIIWgQoTdyRyHLg6liZSd/view?usp=sharing)
 * **Lab 08:** [ดูเอกสาร Lab 08](https://drive.google.com/file/d/1lhr5uB18xHOcuTAaqAlvvXm731A8wPCs/view?usp=drive_link)
 * **Lab 09:** [ดูเอกสาร Lab 09](https://drive.google.com/file/d/1V9N9SeYcB-ucckPqcJnnirdLZ8Jxf-9U/view?usp=sharing)
+* **Lab 10:** [ดูเอกสาร Lab 10](https://drive.google.com/file/d/1w1iwLmg31IJJDvEEf4ZCAm9DIo8GP9fl/view?usp=sharing)
+* **Lab 11:** [ดูเอกสาร Lab 11](https://drive.google.com/file/d/1MF-AFFw7RQGQN3iGL-narD7vRxcXWOK7/view?usp=sharing)
 ---
