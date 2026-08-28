@@ -28,6 +28,7 @@
 | **Lab 11** | Packet Tracer - Propagate a Default Route in OSPFv2 - ILM |
 | **Lab 12** | Packet Tracer - Verify Single-Area OSPFv2 - ILM |
 | **Lab 13** | Packet Tracer - Single-Area OSPFv2 Configuration - ILM |
+| **Lab 14** | Packet Tracer - Packet Tracer - WAN Concepts - ILM |
 
 ---
 
@@ -48,4 +49,5 @@
 * **Lab 11:** [ดูเอกสาร Lab 11](https://drive.google.com/file/d/1MF-AFFw7RQGQN3iGL-narD7vRxcXWOK7/view?usp=sharing)
 * **Lab 12:** [ดูเอกสาร Lab 12](https://drive.google.com/file/d/1HeRhnd1kbwWrmEhZCoQ15G7KbUikjKUx/view?usp=drive_link)
 * **Lab 13:** [ดูเอกสาร Lab 13](https://drive.google.com/file/d/1LyZCPxUXp6GTystd4FgNX1n0Olox_guq/view?usp=sharing)
+* **Lab 14:** [ดูเอกสาร Lab 14](https://drive.google.com/file/d/1rbysxrubfw-xwMSQqJ0u2mp60fw7CZuK/view?usp=drive_link)
 ---
