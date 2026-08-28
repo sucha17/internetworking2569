@@ -28,7 +28,7 @@
 | **Lab 11** | Packet Tracer - Propagate a Default Route in OSPFv2 - ILM |
 | **Lab 12** | Packet Tracer - Verify Single-Area OSPFv2 - ILM |
 | **Lab 13** | Packet Tracer - Single-Area OSPFv2 Configuration - ILM |
-| **Lab 14** | Packet Tracer - Packet Tracer - WAN Concepts - ILM |
+| **Lab 14** | Packet Tracer - WAN Concepts - ILM |
 
 ---
 
