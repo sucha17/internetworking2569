@@ -32,7 +32,7 @@
 | **Lab 15** | Packet Tracer - Back Up Configuration Files - ILM |
 | **Lab 16** | Packet Tracer - Use a TFTP Server to Upgrade a Cisco IOS Image - ILM |
 | **Lab 17** | - |
-| **Lab 18 ** | Packet Tracer - Compare Layer 2 and Layer 3 Devices - ILM |
+| **Lab 18** | Packet Tracer - Compare Layer 2 and Layer 3 Devices - ILM |
 
 ---
 
