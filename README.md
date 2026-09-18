@@ -31,7 +31,7 @@
 | **Lab 14** | Packet Tracer - WAN Concepts - ILM |
 | **Lab 15** | Packet Tracer - Back Up Configuration Files - ILM |
 | **Lab 16** | Packet Tracer - Use a TFTP Server to Upgrade a Cisco IOS Image - ILM |
-| **Lab 17** | - |
+| **Lab 17** | Packet Tracer - Configure CDP, LLDP, and NTP - ILM |
 | **Lab 18** | Packet Tracer - Compare Layer 2 and Layer 3 Devices - ILM |
 
 ---
@@ -54,7 +54,8 @@
 * **Lab 12:** [ดูเอกสาร Lab 12](https://drive.google.com/file/d/1HeRhnd1kbwWrmEhZCoQ15G7KbUikjKUx/view?usp=drive_link)
 * **Lab 13:** [ดูเอกสาร Lab 13](https://drive.google.com/file/d/1LyZCPxUXp6GTystd4FgNX1n0Olox_guq/view?usp=sharing)
 * **Lab 14:** [ดูเอกสาร Lab 14](https://drive.google.com/file/d/1rbysxrubfw-xwMSQqJ0u2mp60fw7CZuK/view?usp=drive_link)
-* **Lab 15:** [ดูเอกสาร Lab 14](https://drive.google.com/drive/folders/1enucroAN8xSgUwVuRwjyp9__82ec7h_F?usp=sharing)
-* **Lab 16:** [ดูเอกสาร Lab 14](https://drive.google.com/drive/folders/1G6RNEV8F5Y772PAW2sNoyegDVJ4SQAlX?usp=sharing)
-* **Lab 18:** [ดูเอกสาร Lab 14](https://drive.google.com/file/d/1UuoVO9ik1NoozIuPiYN9dARkDZzgBV-I/view?usp=sharing)
+* **Lab 15:** [ดูเอกสาร Lab 15](https://drive.google.com/drive/folders/1enucroAN8xSgUwVuRwjyp9__82ec7h_F?usp=sharing)
+* **Lab 16:** [ดูเอกสาร Lab 16](https://drive.google.com/drive/folders/1G6RNEV8F5Y772PAW2sNoyegDVJ4SQAlX?usp=sharing)
+* **Lab 17:** [ดูเอกสาร Lab 17](https://drive.google.com/file/d/1sMMkJQ1H_WSuxMAdBSo8jaj0gnA1bcOf/view?usp=drive_link)
+* **Lab 18:** [ดูเอกสาร Lab 18](https://drive.google.com/file/d/1UuoVO9ik1NoozIuPiYN9dARkDZzgBV-I/view?usp=sharing)
 ---
