@@ -31,6 +31,8 @@
 | **Lab 14** | Packet Tracer - WAN Concepts - ILM |
 | **Lab 15** | Packet Tracer - Back Up Configuration Files - ILM |
 | **Lab 16** | Packet Tracer - Use a TFTP Server to Upgrade a Cisco IOS Image - ILM |
+| **Lab 17** | - |
+| **Lab 18 ** | Packet Tracer - Compare Layer 2 and Layer 3 Devices - ILM |
 
 ---
 
@@ -54,4 +56,5 @@
 * **Lab 14:** [ดูเอกสาร Lab 14](https://drive.google.com/file/d/1rbysxrubfw-xwMSQqJ0u2mp60fw7CZuK/view?usp=drive_link)
 * **Lab 15:** [ดูเอกสาร Lab 14](https://drive.google.com/drive/folders/1enucroAN8xSgUwVuRwjyp9__82ec7h_F?usp=sharing)
 * **Lab 16:** [ดูเอกสาร Lab 14](https://drive.google.com/drive/folders/1G6RNEV8F5Y772PAW2sNoyegDVJ4SQAlX?usp=sharing)
+* **Lab 18:** [ดูเอกสาร Lab 14](https://drive.google.com/file/d/1UuoVO9ik1NoozIuPiYN9dARkDZzgBV-I/view?usp=sharing)
 ---
