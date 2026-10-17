@@ -58,4 +58,19 @@
 * **Lab 16:** [ดูเอกสาร Lab 16](https://drive.google.com/drive/folders/1G6RNEV8F5Y772PAW2sNoyegDVJ4SQAlX?usp=sharing)
 * **Lab 17:** [ดูเอกสาร Lab 17](https://drive.google.com/file/d/1sMMkJQ1H_WSuxMAdBSo8jaj0gnA1bcOf/view?usp=drive_link)
 * **Lab 18:** [ดูเอกสาร Lab 18](https://drive.google.com/file/d/1UuoVO9ik1NoozIuPiYN9dARkDZzgBV-I/view?usp=sharing)
+
 ---
+
+## 🚀 Final Project (pre_capstone_list)
+
+📂 **เอกสารและไฟล์โปรเจกต์:** [คลิกที่นี่เพื่อเปิดดู Final Project](https://drive.google.com/drive/folders/1gmY5sEjCpUUsDbKuGJ0ToEt_5f9BRiLX?usp=drive_link)
+
+---
+
+## 📜 Certificate
+
+ใบรับรองการผ่านการฝึกอบรมจาก **Cisco Networking Academy (NetAcad)**
+
+![NetAcad Certificate]([URL_รูปภาพ_Certificate_ของคุณ](https://drive.google.com/file/d/1vVPuelgDSs3Kz9XXK7dZqKFlxRYbD7D7/view?usp=sharing))
+<img width="3875" height="2625" alt="CCNA-_Switching-_Routing-_and_Wireless_Essentials_certificate_suchanat-ka-kkumail-com_d0cc5f10-0d7e-4e49-89e3-964e468e2dcb_page-0001" src="https://github.com/user-attachments/assets/bd676772-e54b-4ee9-a9f2-f2a6d795dddf" />
+
