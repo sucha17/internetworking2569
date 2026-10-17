@@ -71,7 +71,7 @@
 
 ใบรับรองการผ่านการฝึกอบรมจาก **Cisco Networking Academy (NetAcad)**
 
-* **NetAcad Certificate file : https://drive.google.com/file/d/1vVPuelgDSs3Kz9XXK7dZqKFlxRYbD7D7/view?usp=sharing
+* NetAcad Certificate file : https://drive.google.com/file/d/1vVPuelgDSs3Kz9XXK7dZqKFlxRYbD7D7/view?usp=sharing
 
 <img width="3875" height="2625" alt="CCNA-_Switching-_Routing-_and_Wireless_Essentials_certificate_suchanat-ka-kkumail-com_d0cc5f10-0d7e-4e49-89e3-964e468e2dcb_page-0001" src="https://github.com/user-attachments/assets/bd676772-e54b-4ee9-a9f2-f2a6d795dddf" />
 
